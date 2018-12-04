@@ -1,10 +1,10 @@
 <scheme name="uonick-onedark-reborn" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-12-04T22:59:54</property>
+    <property name="created">2018-12-04T23:45:16</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2018-12-04T22:59:58</property>
+    <property name="modified">2018-12-04T23:45:22</property>
     <property name="originalScheme">uonick-onedark-reborn</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -16,7 +16,8 @@
     <option name="CARET_COLOR" value="c1cbd2" />
     <option name="CARET_ROW_COLOR" value="30333b" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
-    <option name="FILESTATUS_MODIFIED" value="ff" />
+    <option name="FILESTATUS_MODIFIED" value="61afef" />
+    <option name="FILESTATUS_modifiedOutside" value="50649f" />
     <option name="GUTTER_BACKGROUND" value="292d35" />
     <option name="INDENT_GUIDE" value="44474c" />
     <option name="LEFT_GUTTER_BACKGROUND" value="3f4b4e" />
