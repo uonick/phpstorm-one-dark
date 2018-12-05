@@ -5,5 +5,8 @@ PHPStorm Syntax Theme from Atom
 ![Preview image](preview.png)
 ![Preview2 image](preview-2.png)
 
-# Install
+# Install scheme
 `PHPStorm` → `Preferences...` → `Editor` → `Color Scheme` → `Import Scheme...`
+
+# Install theme
+https://www.material-theme.com/
