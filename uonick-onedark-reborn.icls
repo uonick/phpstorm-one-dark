@@ -1,10 +1,10 @@
 <scheme name="uonick-onedark-reborn" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-12-04T23:45:16</property>
+    <property name="created">2018-12-05T17:02:18</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2018-12-04T23:45:22</property>
+    <property name="modified">2018-12-05T17:02:30</property>
     <property name="originalScheme">uonick-onedark-reborn</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -710,10 +710,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="e5c07b" />
-        <option name="EFFECT_COLOR" value="ffffff" />
-        <option name="ERROR_STRIPE_COLOR" value="ccccff" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="5c6370" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -1430,8 +1427,6 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="e5c07b" />
-        <option name="ERROR_STRIPE_COLOR" value="c678dd" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
