@@ -1,10 +1,10 @@
 <scheme name="uonick-onedark-reborn" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-12-05T17:02:18</property>
+    <property name="created">2019-01-12T20:27:58</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2018-12-05T17:02:30</property>
+    <property name="ideVersion">2018.3.1.0.0</property>
+    <property name="modified">2019-01-12T20:28:16</property>
     <property name="originalScheme">uonick-onedark-reborn</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -13,9 +13,11 @@
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="98c379" />
+    <option name="ANNOTATIONS_COLOR" value="61afef" />
     <option name="CARET_COLOR" value="c1cbd2" />
     <option name="CARET_ROW_COLOR" value="30333b" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
+    <option name="DELETED_LINES_COLOR" value="aaaaaa" />
     <option name="FILESTATUS_MODIFIED" value="61afef" />
     <option name="FILESTATUS_modifiedOutside" value="50649f" />
     <option name="GUTTER_BACKGROUND" value="292d35" />
@@ -919,6 +921,7 @@
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="e06c75" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LOG_EXPIRED_ENTRY">
