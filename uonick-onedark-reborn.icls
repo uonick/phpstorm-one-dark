@@ -1,10 +1,10 @@
 <scheme name="uonick-onedark-reborn" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-01-12T20:27:58</property>
+    <property name="created">2019-01-24T00:48:07</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2019-01-12T20:28:16</property>
+    <property name="modified">2019-01-24T00:48:11</property>
     <property name="originalScheme">uonick-onedark-reborn</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -17,15 +17,19 @@
     <option name="CARET_COLOR" value="c1cbd2" />
     <option name="CARET_ROW_COLOR" value="30333b" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
-    <option name="DELETED_LINES_COLOR" value="aaaaaa" />
+    <option name="DELETED_LINES_COLOR" value="e06c75" />
+    <option name="DOCUMENTATION_COLOR" value="30333b" />
+    <option name="ERROR_HINT" value="c0392b" />
     <option name="FILESTATUS_MODIFIED" value="61afef" />
     <option name="FILESTATUS_modifiedOutside" value="50649f" />
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="e5c07b" />
     <option name="GUTTER_BACKGROUND" value="292d35" />
     <option name="INDENT_GUIDE" value="44474c" />
     <option name="LEFT_GUTTER_BACKGROUND" value="3f4b4e" />
     <option name="LINE_NUMBERS_COLOR" value="81969a" />
     <option name="METHOD_SEPARATORS_COLOR" value="464f53" />
     <option name="MODIFIED_LINES_COLOR" value="61afef" />
+    <option name="QUESTION_HINT" value="56b6c2" />
     <option name="READONLY_BACKGROUND" value="3c3f41" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="61afef" />
     <option name="RIGHT_MARGIN_COLOR" value="30333b" />
@@ -101,6 +105,11 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="BOOKMARKS_ATTRIBUTES">
+      <value>
+        <option name="ERROR_STRIPE_COLOR" value="1e2126" />
+      </value>
+    </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="c0392b" />
@@ -139,7 +148,8 @@
     </option>
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="44474c" />
+        <option name="FOREGROUND" value="e2e2e2" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
@@ -164,12 +174,17 @@
     </option>
     <option name="CONSOLE_DARKGRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="aaaaaa" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="e06c75" />
+      </value>
+    </option>
+    <option name="CONSOLE_GRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="e2e2e2" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
@@ -209,7 +224,7 @@
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="678cb1" />
+        <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
@@ -715,16 +730,43 @@
         <option name="EFFECT_COLOR" value="5c6370" />
       </value>
     </option>
+    <option name="IGNORE.COMMENT">
+      <value>
+        <option name="FOREGROUND" value="5c6370" />
+      </value>
+    </option>
+    <option name="IGNORE.HEADER">
+      <value>
+        <option name="FOREGROUND" value="c678dd" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="IGNORE.SECTION">
+      <value>
+        <option name="FOREGROUND" value="c678dd" />
+      </value>
+    </option>
+    <option name="IGNORE.SYNTAX">
+      <value>
+        <option name="FOREGROUND" value="56b6c2" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="IGNORE.VALUE">
+      <value>
+        <option name="FOREGROUND" value="98c379" />
+      </value>
+    </option>
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="808080" />
-        <option name="ERROR_STRIPE_COLOR" value="ffffcc" />
+        <option name="ERROR_STRIPE_COLOR" value="e5c07b" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="292929" />
+        <option name="BACKGROUND" value="23272e" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
@@ -745,6 +787,16 @@
         <option name="BACKGROUND" value="5c6370" />
       </value>
     </option>
+    <option name="JAVA.MODIFIER">
+      <value>
+        <option name="FOREGROUND" value="d19a66" />
+      </value>
+    </option>
+    <option name="JAVA.STATIC_FINAL">
+      <value>
+        <option name="FOREGROUND" value="d19a66" />
+      </value>
+    </option>
     <option name="JS.ATTRIBUTE">
       <value>
         <option name="BACKGROUND" value="660066" />
@@ -752,7 +804,7 @@
     </option>
     <option name="JS.BADCHARACTER">
       <value>
-        <option name="BACKGROUND" value="660000" />
+        <option name="BACKGROUND" value="c0392b" />
       </value>
     </option>
     <option name="JS.BLOCK_COMMENT">
@@ -775,6 +827,11 @@
         <option name="FOREGROUND" value="e5c07b" />
       </value>
     </option>
+    <option name="JS.DEBUGGER_STMT">
+      <value>
+        <option name="FOREGROUND" value="e06c75" />
+      </value>
+    </option>
     <option name="JS.DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="5c6370" />
@@ -792,6 +849,11 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="JS.FUNCTION_ARROW">
+      <value>
+        <option name="FOREGROUND" value="56b6c2" />
+      </value>
+    </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
         <option name="FOREGROUND" value="61afef" />
@@ -799,7 +861,7 @@
     </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="abb2be" />
+        <option name="FOREGROUND" value="61afef" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
@@ -815,7 +877,7 @@
     <option name="JS.INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="c0c0c0" />
-        <option name="BACKGROUND" value="660000" />
+        <option name="BACKGROUND" value="c0392b" />
       </value>
     </option>
     <option name="JS.KEYWORD">
@@ -866,10 +928,16 @@
         <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
+    <option name="JS.STATIC_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="aaaaaa" />
+        <option name="BACKGROUND" value="23272e" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="JS.STATIC_MEMBER_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="660e7a" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
     <option name="JS.STRING">
@@ -911,6 +979,11 @@
     <option name="JSP_SCRIPTING_BACKGROUND">
       <value>
         <option name="FOREGROUND" value="d955c1" />
+      </value>
+    </option>
+    <option name="LIVE_TEMPLATE_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="e5c07b" />
       </value>
     </option>
     <option name="LOG_DEBUG_OUTPUT">
@@ -1253,7 +1326,7 @@
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="ccccff" />
+        <option name="BACKGROUND" value="5c6370" />
       </value>
     </option>
     <option name="SMARTY_IDENTIFIER">
@@ -1343,14 +1416,13 @@
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="e5c07b" />
-        <option name="ERROR_STRIPE_COLOR" value="ff00" />
+        <option name="ERROR_STRIPE_COLOR" value="98c379" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="aaaaaa" />
+        <option name="FOREGROUND" value="56b6c2" />
         <option name="FONT_TYPE" value="2" />
-        <option name="ERROR_STRIPE_COLOR" value="61afef" />
       </value>
     </option>
     <option name="TS.GLOBAL_VARIABLE">
