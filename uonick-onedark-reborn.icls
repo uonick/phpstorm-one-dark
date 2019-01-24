@@ -1,10 +1,10 @@
 <scheme name="uonick-onedark-reborn" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-01-24T00:48:07</property>
+    <property name="created">2019-01-24T20:29:17</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2019-01-24T00:48:11</property>
+    <property name="modified">2019-01-24T20:29:20</property>
     <property name="originalScheme">uonick-onedark-reborn</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -148,7 +148,7 @@
     </option>
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="e2e2e2" />
+        <option name="FOREGROUND" value="292c34" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -174,17 +174,12 @@
     </option>
     <option name="CONSOLE_DARKGRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="aaaaaa" />
+        <option name="FOREGROUND" value="5c6370" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="e06c75" />
-      </value>
-    </option>
-    <option name="CONSOLE_GRAY_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="e2e2e2" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
