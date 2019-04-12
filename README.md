@@ -1,4 +1,4 @@
-# OneDark-Reborn
+# OneDark Reborn PHPStorm Theme
 PHPStorm **Syntax Theme** from Atom
 
 ### Preview
