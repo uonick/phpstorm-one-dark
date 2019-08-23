@@ -1,10 +1,10 @@
-<scheme name="uonick-onedark-reborn" version="145" parent_scheme="Default">
+<scheme name="OneDark Reborn" version="146" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2019-08-23T22:46:19</property>
+    <property name="created">2019-08-24T00:48:39</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.1.0.0</property>
-    <property name="modified">2019-08-23T22:46:34</property>
-    <property name="originalScheme">uonick-onedark-reborn</property>
+    <property name="modified">2019-08-24T00:48:50</property>
+    <property name="originalScheme">OneDark Reborn</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="98c379" />
@@ -36,7 +36,7 @@
     <option name="SOFT_WRAP_SIGN_COLOR" value="5c6370" />
     <option name="TEARLINE_COLOR" value="40434a" />
     <option name="VISUAL_INDENT_GUIDE" value="2f333d" />
-    <option name="WHITESPACES" value="40434a" />
+    <option name="WHITESPACES" value="5a5a5a" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="e5c07b" />
   </colors>
   <attributes>
