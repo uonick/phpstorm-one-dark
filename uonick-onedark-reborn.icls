@@ -1,9 +1,9 @@
-<scheme name="OneDark Reborn" version="146" parent_scheme="Default">
+<scheme name="OneDark Reborn" version="147" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2019-08-24T00:48:39</property>
+    <property name="created">2019-08-24T02:31:46</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.1.0.0</property>
-    <property name="modified">2019-08-24T00:48:50</property>
+    <property name="modified">2019-08-24T02:31:54</property>
     <property name="originalScheme">OneDark Reborn</property>
   </metaInfo>
   <colors>
@@ -13,7 +13,7 @@
     <option name="CARET_ROW_COLOR" value="30333b" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DELETED_LINES_COLOR" value="e06c75" />
-    <option name="DOCUMENTATION_COLOR" value="30333b" />
+    <option name="DOCUMENTATION_COLOR" value="" />
     <option name="ERROR_HINT" value="c0392b" />
     <option name="FILESTATUS_MODIFIED" value="61afef" />
     <option name="FILESTATUS_modifiedOutside" value="50649f" />
@@ -25,7 +25,7 @@
     <option name="METHOD_SEPARATORS_COLOR" value="2f333d" />
     <option name="MODIFIED_LINES_COLOR" value="61afef" />
     <option name="QUESTION_HINT" value="56b6c2" />
-    <option name="READONLY_BACKGROUND" value="3a1d1d" />
+    <option name="READONLY_BACKGROUND" value="" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="61afef" />
     <option name="RIGHT_MARGIN_COLOR" value="23272e" />
     <option name="SELECTED_INDENT_GUIDE" value="494c54" />
@@ -35,6 +35,7 @@
     <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="5c6370" />
     <option name="TEARLINE_COLOR" value="40434a" />
+    <option name="TOOLTIP" value="" />
     <option name="VISUAL_INDENT_GUIDE" value="2f333d" />
     <option name="WHITESPACES" value="5a5a5a" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="e5c07b" />
@@ -120,6 +121,12 @@
       <value>
         <option name="EFFECT_COLOR" value="ffe124" />
         <option name="ERROR_STRIPE_COLOR" value="526da5" />
+      </value>
+    </option>
+    <option name="CODE_LENS_BORDER_COLOR">
+      <value>
+        <option name="BACKGROUND" value="676b75" />
+        <option name="EFFECT_COLOR" value="595959" />
       </value>
     </option>
     <option name="COFFEESCRIPT.CLASS_NAME">
@@ -578,6 +585,12 @@
     <option name="DUPLICATE_FROM_SERVER">
       <value>
         <option name="FOREGROUND" value="aaaaaa" />
+      </value>
+    </option>
+    <option name="EDITORCONFIG_PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="ce7075" />
+        <option name="BACKGROUND" value="23272e" />
       </value>
     </option>
     <option name="EL.BOUNDS">
@@ -1146,8 +1159,7 @@
     </option>
     <option name="PHP_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="d19a66" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="FOREGROUND" value="ce7075" />
       </value>
     </option>
     <option name="PHP_DOC_COMMENT_ID">
@@ -1178,7 +1190,7 @@
     </option>
     <option name="PHP_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="61afef" />
+        <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
     <option name="PHP_HEREDOC_CONTENT">
@@ -1249,7 +1261,7 @@
     </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
-        <option name="FOREGROUND" value="e5c07b" />
+        <option name="FOREGROUND" value="c38b62" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1275,7 +1287,7 @@
     </option>
     <option name="PHP_TAG">
       <value>
-        <option name="FOREGROUND" value="e06c75" />
+        <option name="FOREGROUND" value="e4ac68" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -1333,7 +1345,7 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="FOREGROUND" value="161921" />
         <option name="BACKGROUND" value="5c6370" />
       </value>
     </option>
@@ -1429,7 +1441,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="4b828e" />
+        <option name="FOREGROUND" value="6ba2ae" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
