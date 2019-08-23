@@ -1,9 +1,9 @@
-<scheme name="uonick-onedark-reborn" version="144" parent_scheme="Default">
+<scheme name="uonick-onedark-reborn" version="145" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2019-08-23T19:42:31</property>
+    <property name="created">2019-08-23T22:46:19</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.1.0.0</property>
-    <property name="modified">2019-08-23T19:43:24</property>
+    <property name="modified">2019-08-23T22:46:34</property>
     <property name="originalScheme">uonick-onedark-reborn</property>
   </metaInfo>
   <colors>
@@ -22,7 +22,7 @@
     <option name="INDENT_GUIDE" value="494c54" />
     <option name="LEFT_GUTTER_BACKGROUND" value="3f4b4e" />
     <option name="LINE_NUMBERS_COLOR" value="494c54" />
-    <option name="METHOD_SEPARATORS_COLOR" value="464f53" />
+    <option name="METHOD_SEPARATORS_COLOR" value="2f333d" />
     <option name="MODIFIED_LINES_COLOR" value="61afef" />
     <option name="QUESTION_HINT" value="56b6c2" />
     <option name="READONLY_BACKGROUND" value="3a1d1d" />
@@ -34,7 +34,7 @@
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="5c6370" />
-    <option name="TEARLINE_COLOR" value="3d4047" />
+    <option name="TEARLINE_COLOR" value="40434a" />
     <option name="VISUAL_INDENT_GUIDE" value="2f333d" />
     <option name="WHITESPACES" value="40434a" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="e5c07b" />
@@ -53,6 +53,11 @@
     <option name="BAD_CHARACTER">
       <value>
         <option name="BACKGROUND" value="c0392b" />
+      </value>
+    </option>
+    <option name="BASH.EXTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="61afef" />
       </value>
     </option>
     <option name="BASH.FUNCTION_CALL">
@@ -362,7 +367,7 @@
     </option>
     <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="aaaaaa" />
+        <option name="FOREGROUND" value="5e6572" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1095,7 +1100,6 @@
     </option>
     <option name="PHP.THIS_SELF">
       <value>
-        <option name="FOREGROUND" value="61afef" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
