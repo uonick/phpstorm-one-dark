@@ -1,20 +1,15 @@
-<scheme name="uonick-onedark-reborn" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
+<scheme name="OneDark Reborn" version="143" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2019-01-24T20:29:17</property>
+    <property name="created">2019-08-23T19:22:12</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2019-01-24T20:29:20</property>
+    <property name="ideVersion">2019.2.1.0.0</property>
+    <property name="modified">2019-08-23T19:22:27</property>
     <property name="originalScheme">uonick-onedark-reborn</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="98c379" />
     <option name="ANNOTATIONS_COLOR" value="61afef" />
-    <option name="CARET_COLOR" value="c1cbd2" />
+    <option name="CARET_COLOR" value="5c6370" />
     <option name="CARET_ROW_COLOR" value="30333b" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DELETED_LINES_COLOR" value="e06c75" />
@@ -24,23 +19,24 @@
     <option name="FILESTATUS_modifiedOutside" value="50649f" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="e5c07b" />
     <option name="GUTTER_BACKGROUND" value="292d35" />
-    <option name="INDENT_GUIDE" value="44474c" />
+    <option name="INDENT_GUIDE" value="494c54" />
     <option name="LEFT_GUTTER_BACKGROUND" value="3f4b4e" />
-    <option name="LINE_NUMBERS_COLOR" value="81969a" />
+    <option name="LINE_NUMBERS_COLOR" value="494c54" />
     <option name="METHOD_SEPARATORS_COLOR" value="464f53" />
     <option name="MODIFIED_LINES_COLOR" value="61afef" />
     <option name="QUESTION_HINT" value="56b6c2" />
-    <option name="READONLY_BACKGROUND" value="3c3f41" />
+    <option name="READONLY_BACKGROUND" value="3a1d1d" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="61afef" />
-    <option name="RIGHT_MARGIN_COLOR" value="30333b" />
-    <option name="SELECTED_INDENT_GUIDE" value="333333" />
-    <option name="SELECTED_TEARLINE_COLOR" value="ffffff" />
+    <option name="RIGHT_MARGIN_COLOR" value="23272e" />
+    <option name="SELECTED_INDENT_GUIDE" value="494c54" />
+    <option name="SELECTED_TEARLINE_COLOR" value="e2e2e2" />
     <option name="SELECTION_BACKGROUND" value="3f4451" />
     <option name="SELECTION_FOREGROUND" value="" />
+    <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="5c6370" />
-    <option name="TEARLINE_COLOR" value="666666" />
-    <option name="VISUAL_INDENT_GUIDE" value="2d3038" />
-    <option name="WHITESPACES" value="5c6370" />
+    <option name="TEARLINE_COLOR" value="3d4047" />
+    <option name="VISUAL_INDENT_GUIDE" value="2f333d" />
+    <option name="WHITESPACES" value="40434a" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="e5c07b" />
   </colors>
   <attributes>
@@ -631,7 +627,7 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="5c6370" />
+        <option name="FOREGROUND" value="5e6572" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -1092,7 +1088,9 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e5c07b" />
-        <option name="BACKGROUND" value="333333" />
+        <option name="BACKGROUND" value="23272e" />
+        <option name="EFFECT_COLOR" value="d19a66" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="PHP_ALIAS_REFERENCE">
@@ -1282,6 +1280,11 @@
         <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
+    <option name="RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="c678dd" />
+      </value>
+    </option>
     <option name="REGEXP.CHAR_CLASS">
       <value>
         <option name="FOREGROUND" value="808000" />
@@ -1416,7 +1419,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="56b6c2" />
+        <option name="FOREGROUND" value="4b828e" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
