@@ -1,9 +1,9 @@
 <scheme name="OneDark Reborn" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2020-01-15T13:58:12</property>
+    <property name="created">2020-01-15T14:13:57</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-01-15T13:58:30</property>
+    <property name="modified">2020-01-15T14:14:09</property>
     <property name="originalScheme">OneDark Reborn</property>
   </metaInfo>
   <colors>
@@ -993,7 +993,6 @@
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffe39f" />
-        <option name="BACKGROUND" value="2f333d" />
         <option name="EFFECT_COLOR" value="3c89e9" />
       </value>
     </option>
