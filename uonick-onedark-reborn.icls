@@ -1,15 +1,15 @@
-<scheme name="OneDark Reborn" version="148" parent_scheme="Default">
+<scheme name="OneDark Reborn" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2019-08-29T12:33:23</property>
+    <property name="created">2020-01-15T13:58:12</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2019.2.1.0.0</property>
-    <property name="modified">2019-08-29T12:33:36</property>
+    <property name="ideVersion">2019.3.1.0.0</property>
+    <property name="modified">2020-01-15T13:58:30</property>
     <property name="originalScheme">OneDark Reborn</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="98c379" />
     <option name="ANNOTATIONS_COLOR" value="61afef" />
-    <option name="CARET_COLOR" value="5c6370" />
+    <option name="CARET_COLOR" value="ed7512" />
     <option name="CARET_ROW_COLOR" value="30333b" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DELETED_LINES_COLOR" value="e06c75" />
@@ -992,7 +992,9 @@
     </option>
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="e5c07b" />
+        <option name="FOREGROUND" value="ffe39f" />
+        <option name="BACKGROUND" value="2f333d" />
+        <option name="EFFECT_COLOR" value="3c89e9" />
       </value>
     </option>
     <option name="LOG_DEBUG_OUTPUT">
@@ -1740,7 +1742,6 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="161921" />
         <option name="BACKGROUND" value="5c6370" />
       </value>
     </option>
