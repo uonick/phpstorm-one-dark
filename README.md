@@ -1,5 +1,5 @@
 # OneDark Reborn PHPStorm Theme
-PHPStorm **Syntax Theme** from Atom
+**Syntax Theme** from Atom
 
 ![Preview](preview.png)
 
