@@ -1,7 +1,7 @@
 # OneDark Reborn PHPStorm Theme
 PHPStorm **Syntax Theme** from Atom
 
-![Preview image](preview.png)
+![Preview](preview.png)
 
 ### Install
 - Install [Material Theme UI Lite](https://plugins.jetbrains.com/plugin/12124-material-theme-ui-lite)
