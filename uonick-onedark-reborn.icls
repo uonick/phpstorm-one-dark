@@ -1,9 +1,9 @@
-<scheme name="OneDark Reborn" version="145" parent_scheme="Default">
+<scheme name="OneDark Reborn v.2" version="144" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2021-12-18T23:41:51</property>
+    <property name="created">2023-09-14T02:51:26</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2021.3.0.0</property>
-    <property name="modified">2021-12-18T23:42:27</property>
+    <property name="ideVersion">2023.2.0.0</property>
+    <property name="modified">2023-09-14T02:51:47</property>
     <property name="originalScheme">OneDark Reborn</property>
   </metaInfo>
   <colors>
@@ -15,15 +15,7 @@
     <option name="DELETED_LINES_COLOR" value="e06c75" />
     <option name="DOCUMENTATION_COLOR" value="" />
     <option name="ERROR_HINT" value="c0392b" />
-    <option name="FILESTATUS_ADDED" value="a3be8c" />
-    <option name="FILESTATUS_HIJACKED" value="3e434d" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="3e434d" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="3e434d" />
-    <option name="FILESTATUS_MERGED" value="b48eac" />
     <option name="FILESTATUS_MODIFIED" value="61afef" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="8aa4c8" />
-    <option name="FILESTATUS_OBSOLETE" value="ffe39f" />
-    <option name="FILESTATUS_changelistConflict" value="be606a" />
     <option name="FILESTATUS_modifiedOutside" value="50649f" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="e5c07b" />
     <option name="GUTTER_BACKGROUND" value="292d35" />
@@ -576,7 +568,7 @@
     <option name="DIFF_DELETED">
       <value>
         <option name="BACKGROUND" value="333333" />
-        <option name="ERROR_STRIPE_COLOR" value="441712" />
+        <option name="ERROR_STRIPE_COLOR" value="3d3d3d" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
@@ -1001,8 +993,8 @@
     </option>
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="3c89e9" />
-        <option name="EFFECT_COLOR" value="ffe39f" />
+        <option name="FOREGROUND" value="ffe39f" />
+        <option name="EFFECT_COLOR" value="3c89e9" />
       </value>
     </option>
     <option name="LOG_DEBUG_OUTPUT">
@@ -1931,8 +1923,8 @@
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="191c1e" />
-        <option name="BACKGROUND" value="a7acb1" />
+        <option name="FOREGROUND" value="3c3f41" />
+        <option name="BACKGROUND" value="61afef" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
